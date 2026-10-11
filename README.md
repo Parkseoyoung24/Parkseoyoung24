@@ -13,9 +13,9 @@ I started with robot competitions in middle and high school (RoboCup China Open,
 Python, C, MATLAB, ROS2, pandas, QGIS, VISSIM, RoadRunner, YOLO
 
 ### Projects
-- [Travel Demand Model](https://github.com/Parkseoyoung24/travel-demand-model): four-step travel demand model for Seoul (2016 to 2030)
-- [Car-Following Model](https://github.com/Parkseoyoung24/car-following-model): car-following model in MATLAB and Python
+Code: [mobility-projects](https://github.com/Parkseoyoung24/mobility-projects)
+- Travel Demand Model: four-step travel demand model for Seoul (2016 to 2030)
+- Autonomous Driving Hackathon: traffic light detection data pipeline and PPO-based driving
 - Suwon Night Bus Route Proposal: night bus network design based on latent demand
-- 2026 Autonomous Driving Hackathon: traffic light detection and line tracing on ROS2
 
 Reports and slides: [Google Drive](https://drive.google.com/drive/folders/1i0kPzZbjA6QpHOxDOgn6_x_4Y5aieUir?usp=sharing)
